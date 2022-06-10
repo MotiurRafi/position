@@ -1,0 +1,190 @@
+* {
+     padding: 0;
+     margin: 0;
+}
+
+.container>div {
+     height: 125px;
+     width: 125px;
+     color: white;
+
+}
+
+.a {
+     background-color: red;
+     position: absolute;
+     top: 20px;
+     left: 20px;
+     z-index: 1;
+}
+
+.b {
+     background-color: rgb(0, 102, 255);
+     position: absolute;
+     top: 100px;
+     left: 100px;
+     z-index: 2;
+}
+
+.c {
+     background-color: rgb(255, 0, 234);
+     position: absolute;
+     top: 175px;
+     left: 175px;
+     z-index: 3;
+}
+
+.d {
+     background-color: rgb(217, 255, 0);
+     position: absolute;
+     top: 250px;
+     left: 250px;
+     z-index: 4;
+}
+
+.e {
+     background-color: rgb(0, 119, 255);
+     position: absolute;
+     top: 325px;
+     left: 325px;
+     z-index: 5;
+}
+
+.f {
+     background-color: rgb(21, 255, 0);
+     position: absolute;
+     top: 400px;
+     left: 400px;
+     z-index: 6;
+}
+
+.g {
+     background-color: rgb(76, 0, 255);
+     position: absolute;
+     top: 475px;
+     left: 475px;
+     z-index: 7;
+}
+
+.container2>div {
+     height: 200px;
+     color: white;
+}
+
+.ty {
+     width: 200px;
+     background-color: rgb(0, 136, 255);
+     position: absolute;
+     left: 625px;
+     top: 25px;
+     z-index: 100;
+}
+
+.gy {
+     width: 300px;
+     background-color: rgb(194, 22, 22);
+     position: absolute;
+     left: 579px;
+     top: 169px;
+     z-index: 90;
+}
+
+.ry {
+     width: 400px;
+     background-color: rgb(25, 0, 255);
+     position: absolute;
+     left: 531px;
+     top: 299px;
+     z-index: 80;
+}
+
+.hy {
+     width: 500px;
+     background-color: rgb(206, 134, 0);
+     position: absolute;
+     left: 480px;
+     top: 425px;
+     z-index: 70;
+}
+
+.container3>div {
+     height: 200px;
+     width: 200px;
+     color: white;
+}
+
+.tf {
+     background-color: rgb(206, 134, 0);
+     position: absolute;
+     left: 500px;
+     top: 40px;
+     z-index: 1;
+}
+
+.gf {
+     background-color: rgb(45, 0, 206);
+     position: absolute;
+     left: 350px;
+     top: 170px;
+     z-index: 2;
+}
+
+.rf {
+     background-color: rgb(206, 0, 10);
+     position: absolute;
+     left: 650px;
+     top: 170px;
+     z-index: 2;
+}
+
+.hf {
+     background-color: rgb(0, 206, 0);
+     position: absolute;
+     left: 500px;
+     top: 315px;
+     z-index: 1;
+}
+
+.container4>div {
+     height: 200px;
+     color: white;
+}
+
+.ha {
+     width: 200px;
+     background-color: rgb(0, 136, 255);
+     position: absolute;
+     left: 625px;
+     top: 25px;
+     z-index: 1;
+}
+
+
+.ra {
+     width: 300px;
+     background-color: rgb(194, 22, 22);
+     position: absolute;
+     left: 579px;
+     top: 169px;
+     z-index: 2;
+}
+
+
+
+.ga {
+     width: 400px;
+     background-color: rgb(25, 0, 255);
+     position: absolute;
+     left: 531px;
+     top: 299px;
+     z-index: 3;
+}
+
+.ta {
+     width: 500px;
+     background-color: rgb(206, 134, 0);
+     position: absolute;
+     left: 480px;
+     top: 425px;
+     z-index: 4;
+}
